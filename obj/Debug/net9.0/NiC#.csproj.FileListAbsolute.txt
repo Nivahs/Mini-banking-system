@@ -1,0 +1,14 @@
+C:\Users\IMILE-TI\Documents\NiC#\bin\Debug\net9.0\NiC#.exe
+C:\Users\IMILE-TI\Documents\NiC#\bin\Debug\net9.0\NiC#.deps.json
+C:\Users\IMILE-TI\Documents\NiC#\bin\Debug\net9.0\NiC#.runtimeconfig.json
+C:\Users\IMILE-TI\Documents\NiC#\bin\Debug\net9.0\NiC#.dll
+C:\Users\IMILE-TI\Documents\NiC#\bin\Debug\net9.0\NiC#.pdb
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\NiC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\NiC#.AssemblyInfoInputs.cache
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\NiC#.AssemblyInfo.cs
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\NiC#.csproj.CoreCompileInputs.cache
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\NiC#.dll
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\refint\NiC#.dll
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\NiC#.pdb
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\NiC#.genruntimeconfig.cache
+C:\Users\IMILE-TI\Documents\NiC#\obj\Debug\net9.0\ref\NiC#.dll
